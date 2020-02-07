@@ -1,0 +1,14 @@
+#barra{
+    background:linear-gradient(rgb(12, 197, 12),greenyellow);
+    border: solid green 1px;
+    width: 100vw;
+    height: 30px;
+    color: white;
+}
+#botaoC{
+    margin: 15px;
+}
+#corpoCard{
+    display: flex;
+    justify-content: center;
+}
